@@ -13,7 +13,8 @@ connectDB();
 // app.get('/',(req,res)=>{
 //     res.send("welcome to my server")
 // })
-
+// hell0
+AMIT VISHWAKARMA
 app.use('/api/auth',routes)
 
 app.listen(port,()=>{
